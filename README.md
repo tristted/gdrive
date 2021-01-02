@@ -3,7 +3,7 @@
 2. Add this file into your Windows registery.
 3. Check your Windows explorer sidebar and look result.
 
-https://github.com/tristted/gdrive/issues/1#issue-777531699
+![alt tag](https://github.com/tristted/gdrive/issues/1#issue-777531699)
 
 # Remove Google Drive into Windows explorer
 Coming soon...
